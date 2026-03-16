@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    char ch = 'y';
+
+    while (ch == 'y')
+    {
+        cout<<"I am Happy"<<endl;
+        cout<<"Press y to continue or any key to exit: ";
+        cin>>ch;
+        }
+       cout<<"exit"<<endl;
+       return 0;
+        
+    }

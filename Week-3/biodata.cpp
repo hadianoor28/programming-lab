@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 	string name;
-        int Rollno;
+	int Rollno;
 	float agg;
 	char sec;
 	cout<<" Enter your Name:";
